@@ -4,4 +4,4 @@ spring:
   cloud:
     config:
       enabled: true
-      uri: http://config-server-production-5948.up.railway.app
+      uri: https://config-server-production-5948.up.railway.app
